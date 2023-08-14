@@ -1,0 +1,9 @@
+export const customer_signIn = "/IndianFlavorScape/customer/signIn";
+export const customer_signUp = "/IndianFlavorScape/customer/signUp";
+export const employee_signIn = "/IndianFlavorScape/employ/signIn";
+export const getMainDishes = "/IndianFlavorScape/menu/getMainDishes";
+export const getAdditives = "/IndianFlavorScape/menu/getAdditives";
+export const getSides = "/IndianFlavorScape/menu/getSides";
+export const placeOrder = "/IndianFlavorScape/customer/placeOrder";
+export const updateOrderStatus = "/IndianFlavorScape/employ/updateOrderStatus";
+export const getAllOrders = "/IndianFlavorScape/getAllOrders";
